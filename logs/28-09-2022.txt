@@ -1,0 +1,8 @@
+5.188.62.140()--query--tables(delete from table_user_online where time < 1664306647) (02:34:07 28/09/2022)
+42.83.147.34()--query--tables(delete from table_user_online where time < 1664309613) (03:23:33 28/09/2022)
+44.234.62.250()--query--tables(delete from table_user_online where time < 1664330114) (09:05:14 28/09/2022)
+207.46.13.42()--query--tables(delete from table_user_online where time < 1664341009) (12:06:49 28/09/2022)
+193.235.141.170()--query--tables(delete from table_user_online where time < 1664354305) (15:48:25 28/09/2022)
+14.29.182.82()--query--tables(delete from table_user_online where time < 1664358032) (16:50:32 28/09/2022)
+40.77.167.59()--query--tables(delete from table_user_online where time < 1664381390) (23:19:50 28/09/2022)
+40.77.167.59()--update--news([["","id","=","46"]]) (23:19:50 28/09/2022)

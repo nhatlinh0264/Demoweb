@@ -1,0 +1,5 @@
+UNKNOWN()--query--tables(delete from table_user_online where time < 1669802773) (17:16:13 30/11/2022)
+UNKNOWN()--query--tables(delete from table_user_online where time < 1669802882) (17:18:02 30/11/2022)
+UNKNOWN()--query--tables(delete from table_user_online where time < 1669802882) (17:18:02 30/11/2022)
+UNKNOWN()--query--tables(delete from table_user_online where time < 1669802924) (17:18:44 30/11/2022)
+UNKNOWN()--query--tables(delete from table_user_online where time < 1669802939) (17:18:59 30/11/2022)

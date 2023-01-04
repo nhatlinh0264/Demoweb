@@ -1,0 +1,5 @@
+UNKNOWN()--query--tables(delete from table_user_online where time < 1672722333) (12:15:33 03/01/2023)
+UNKNOWN()--query--tables(delete from table_user_online where time < 1672722424) (12:17:04 03/01/2023)
+UNKNOWN()--query--tables(delete from table_user_online where time < 1672722437) (12:17:17 03/01/2023)
+UNKNOWN()--query--tables(delete from table_user_online where time < 1672722470) (12:17:50 03/01/2023)
+UNKNOWN()--query--tables(delete from table_user_online where time < 1672722477) (12:17:57 03/01/2023)
